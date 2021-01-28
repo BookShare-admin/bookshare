@@ -1,0 +1,93 @@
+@font-face{
+    font-family: RobotoCondensed;
+	src: 'url(/home/vova/Документы/BookShare/Code/Design files/RobotoCondensed-Regular.ttf)';
+}
+
+.body {
+    background-color: white;    
+    height: 3218px;
+}
+#logo{
+    width: 96px;
+    position: relative;
+}
+#sign-up-botton{
+    background-color: #7673D9;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    top: 40px;
+    width: 150px;
+    height: 60px;
+    font-size: 36px;
+    left: 88%;
+    border-width: 0px;
+    box-shadow: gray;
+    position: fixed;
+    font-family: RobotoCondensed;
+}
+#log-in-button{ 
+    left: 82%;
+}
+.header-buttons{
+    background-color: white;
+    border: white;
+    font-size: 26px;
+    top: 60px;
+    position: absolute;
+    font-family: RobotoCondensed;
+}
+#info-button{
+    left: 68%;
+}
+
+#contacts-button{
+    left: 61%;
+}
+#welcome1{
+    position: absolute;
+    left: 42%;
+    top: 200px;
+    font-size: 64px;
+    font-family: RobotoCondensed;
+}
+
+#big-logo{
+    position: absolute;
+    width: 950px;
+    top: 36%;
+    left: 25%;
+}
+#button-get{
+    background-color: #4867D6;
+    position: absolute;
+    left: 45%;
+    width: 200px;
+    color: white;
+    height: 50px;
+    border: #4867D6;
+    top: 60%;
+    text-align: center;
+    font-size: 28px;
+    border-radius: 10px;
+}
+#introdaction{
+    background-color: #4867D6;
+    position: absolute;
+    top: 900px;
+    width: 99%; 
+
+}
+#int-text{
+    text-align: center;
+    padding: 30px;
+    color: white;
+    font-family: monospace;
+}
+#int-video{
+    border-radius: 12px;
+    padding-left: 400px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
