@@ -44,3 +44,17 @@
 #contacts-button{
     left: 61%;
 }
+#sign-up-box{
+    background-color: #4867D6;
+    color: #4867D6;
+    border-radius: 10px;
+    position: absolute;
+    width: 861px;
+    height: 514px;
+    left: 530px;
+    top: 221px;
+}
+#sign-up-h{
+    text-align: center;
+    color: white;
+}
