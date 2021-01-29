@@ -59,3 +59,14 @@
     color: white;
     font-size: 40px;
 }
+#post-inp{
+    border-radius: 5px;
+    width: 302px;
+    height: 40px;
+    top: 100px;
+    left: 50px;
+    font-size: 18px;
+    border: white;
+    position: absolute;
+    padding-left: 10px;
+}
