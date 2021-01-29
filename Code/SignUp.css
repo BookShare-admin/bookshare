@@ -1,0 +1,46 @@
+@font-face{
+    font-family: RobotoCondensed;
+	src: 'url(/home/vova/Документы/BookShare/Code/Design files/RobotoCondensed-Regular.ttf)';
+}
+
+.body {
+    background-color: white;    
+    height: 3218px;
+}
+#logo{
+    width: 96px;
+    position: relative;
+}
+#sign-up-botton{
+    background-color: #7673D9;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    top: 40px;
+    width: 150px;
+    height: 60px;
+    font-size: 36px;
+    left: 88%;
+    border-width: 0px;
+    box-shadow: gray;
+    position: fixed;
+    font-family: RobotoCondensed;
+}
+#log-in-button{ 
+    left: 82%;
+}
+.header-buttons{
+    background-color: white;
+    border: white;
+    font-size: 26px;
+    top: 60px;
+    position: absolute;
+    font-family: RobotoCondensed;
+}
+#info-button{
+    left: 68%;
+}
+
+#contacts-button{
+    left: 61%;
+}
